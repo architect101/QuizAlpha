@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizAlpha</string>
+    <string name="rbutton1">Button1</string>
+    <string name="rbutton2">Button2</string>
+    <string name="rbutton3">Button3</string>
+    <string name="rbutton4">Button4</string>
+    <string name="title_activity_score_">Score_Activity</string>
+    <string name="share_text">Share</string>
+    <string name="level_text">Next Level</string>
+</resources>
